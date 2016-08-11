@@ -54,3 +54,20 @@
     padding:5px 5px
     
 }   
+
+.nav{
+    background-color: hotpink;
+    border-radius: 5px;
+    
+    
+    
+}
+.kick li{ 
+    display: inline-block;
+    padding: 5px 54px 5px 30px;
+    
+    }
+
+.thelist{
+    color: white;
+}
