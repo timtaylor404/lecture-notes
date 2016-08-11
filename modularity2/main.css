@@ -1,0 +1,56 @@
+/* ADD YOUR STYLES HERE */
+
+
+
+.space1 img{
+    padding:05px 20px;
+    
+}
+.straight img{
+    float:left;
+    padding: 10px 10px;
+    
+}
+.straight p{ 
+    float: left;
+    margin-top: 10px
+    
+}
+.straight ol{
+    margin-left: 70%;
+    text-align: left;
+    padding-top: 10px;
+
+    
+}
+.vert-s{
+    padding:120px 0px;
+}
+
+.yup{
+    display: inline-block;
+    
+}.space1 img{
+    padding:05px 20px;
+    
+}
+
+.buttons{
+    background-color: hotpink ;
+    border-radius:10px;
+    color: white;
+    padding: 20px 40px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    text-decoration: none;
+    
+}
+.button1{
+    padding:10px 20px 
+    
+}
+.button2{
+    padding:5px 5px
+    
+}   
